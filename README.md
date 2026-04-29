@@ -19,7 +19,7 @@ Tech Stack
 
     GPU: NVIDIA GeForce RTX 4060 (8GB VRAM)
 
-    Software: Blender 4.x, Python 3.x, OpenCV
+    Software: Blender 4.4, Python 3.10.9, OpenCV
 
     AI Framework: Ultralytics YOLOv11-seg
 
