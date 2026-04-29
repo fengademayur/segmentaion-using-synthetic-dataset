@@ -15,7 +15,7 @@ The Workflow
 
 Tech Stack
 
-    OS: Tuxedo OS (Linux)
+    OS: Linux
 
     GPU: NVIDIA GeForce RTX 4060 (8GB VRAM)
 
